@@ -3,6 +3,9 @@
 #EXTINF:-1,A&E
 http://daxoi.online:80/503046834/579394780/2473957
 
+#EXTINF:-1,Alpha FM (rádio)
+https://ice.fabricahost.com.br/alphafm1021
+
 #EXTINF:-1,AMC
 http://daxoi.online:80/503046834/579394780/2473958
 
@@ -24,6 +27,9 @@ http://daxoi.online:80/503046834/579394780/2474878
 #EXTINF:-1,Band Sports
 http://daxoi.online:80/503046834/579394780/2474408
 
+#EXTINF:-1,BBC Food
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
 #EXTINF:-1,BIS
 http://daxoi.online:80/503046834/579394780/2475427
 
@@ -33,8 +39,14 @@ http://daxoi.online:80/503046834/579394780/2474866
 #EXTINF:-1,Canção Nova
 http://daxoi.online:80/503046834/579394780/2475135
 
+#EXTINF:-1,CBS Sports
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
 #EXTINF:-1,Cinemax
 http://daxoi.online:80/503046834/579394780/2473964
+
+#EXTINF:-1,Classic Rock Network
+https://cdn17.fntvchannel.com/index.m3u8
 
 #EXTINF:-1,CNN International
 http://daxoi.online:80/503046834/579394780/2474877
@@ -75,6 +87,9 @@ http://daxoi.online:80/503046834/579394780/2475453
 #EXTINF:-1,E!
 http://daxoi.online:80/503046834/579394780/2474621
 
+#EXTINF:-1,Euronews
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619e6614c9d9650007a2b171livestitch/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
 #EXTINF:-1,ESPN
 http://daxoi.online:80/503046834/579394780/2474410
 
@@ -101,6 +116,9 @@ http://pfsv.io:80/6783460679/1233/92668.ts
 
 #EXTINF:-1,Food Network
 http://daxoi.online:80/503046834/579394780/2474623
+
+#EXTINF:-1,France 24 (inglês)
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 
 #EXTINF:-1,Globo News
 http://daxoi.online:80/503046834/579394780/2474880
@@ -153,11 +171,20 @@ http://daxoi.online:80/503046834/579394780/2474628
 #EXTINF:-1,Multishow
 http://daxoi.online:80/503046834/579394780/2474629
 
+#EXTINF:-1,NBC News Now
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5df97894467dfa00091c873c/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
 #EXTINF:-1,Off
 http://daxoi.online:80/503046834/579394780/2474630
 
 #EXTINF:-1,Paramount
 http://daxoi.online:80/503046834/579394780/2473967
+
+#EXTINF:-1,PBS Nature
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/640a64bd73e013000893d4e0/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1,RBC
+https://e5-online-video.rbc.ru/online2/rbctv_576p/index.m3u8
 
 #EXTINF:-1,RBS TV Porto Alegre
 http://pfsv.io:80/6783460679/1233/391.ts
@@ -167,6 +194,9 @@ http://pfsv.io:80/6783460679/1233/120714.ts
 
 #EXTINF:-1,RedeTV!
 https://cdn.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
+
+#EXTINF:-1,Rede Vida
+https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8
 
 #EXTINF:-1,Sabor e Arte
 http://daxoi.online:80/503046834/579394780/2473978
@@ -234,6 +264,9 @@ http://daxoi.online:80/503046834/579394780/2473973
 #EXTINF:-1,TV Aparecida
 http://daxoi.online:80/503046834/579394780/2475149
 
+#EXTINF:-1,TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8
+
 #EXTINF:-1,TV5 Monde
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 
@@ -243,14 +276,23 @@ https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/playlist.m3u8
 #EXTINF:-1,TVI
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
 
+#EXTINF:-1,Travel Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/59c01b1953680139c6ae9d4d/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
 #EXTINF:-1,Universal TV
 http://daxoi.online:80/503046834/579394780/2473974
 
 #EXTINF:-1,USA
 http://daxoi.online:80/503046834/579394780/2473971
 
+#EXTINF:-1,USA Today
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=vB1fQVteisRvSpyJtSgH&channelId=60df3e18541143002f3b8607
+
 #EXTINF:-1,Viva
 http://daxoi.online:80/503046834/579394780/2474635
 
 #EXTINF:-1,Warner
 http://daxoi.online:80/503046834/579394780/2473975
+
+#EXTINF:-1,Weather Spy
+https://jukin-weatherspy-2-br.samsung.wurl.tv/playlist.m3u8
