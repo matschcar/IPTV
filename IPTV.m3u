@@ -45,7 +45,7 @@ https://gerenciar.vivatele.com:443/viva_padrao/viva2384/3
 #EXTINF:-1,CNBC Times Brasil
 https://cr7v.short.gy/ManoTV/TimesBrasil/Whats75991634025/CNBC/Index.m3u8
 
-#EXTINF:-1,Deutsche Welle (inglês)
+#EXTINF:-1,Deutsche Welle
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
 
 #EXTINF:-1,Discovery Channel
@@ -102,7 +102,7 @@ http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
 #EXTINF:-1,Food Network
 http://200.229.190.189:8001/play/a01g
 
-#EXTINF:-1,France 24 (inglês)
+#EXTINF:-1,France 24
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 
 #EXTINF:-1,Globo
@@ -234,7 +234,7 @@ http://200.4.96.59:8825/play/a069/index.m3u8
 #EXTINF:-1,TNT Novelas
 http://45.235.0.78/TNT_Novelas/playlist.m3u8
 
-#EXTINF:-1,TNT Séries
+#EXTINF:-1,TNT Series
 http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/164958
 
 #EXTINF:-1,TV Cultura
