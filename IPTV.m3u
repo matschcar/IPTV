@@ -176,7 +176,7 @@ https://cdn-3.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_3.m3u8?ManoTV
 
-#EXTINF:-1,SIC Notícias
+#EXTINF:-1,SIC Noticias
 https://cdnapisec.kaltura.com/p/4526593/sp/4526593/playManifest/entryId/1_j8ztwihx/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
 
 #EXTINF:-1,Sony
@@ -227,7 +227,7 @@ http://s2.micineovs.com/TNT/index.m3u8?token=16FOTt9Ae2m8
 #EXTINF:-1,TNT Novelas
 
 
-#EXTINF:-1,TNT Séries
+#EXTINF:-1,TNT Series
 http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/164958
 
 #EXTINF:-1,TV Cultura
